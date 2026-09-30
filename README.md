@@ -1,4 +1,4 @@
-# Comfy-Gen-MCP
+ # Comfy-Gen-MCP
 
 This repository was created by the "Deploy to Cloudflare" button for
 [Comfy-Gen-MCP](https://github.com/lugia19/comfyui-gen-mcp). It holds configuration only. Each
@@ -7,3 +7,5 @@ sync.
 
 When the deploy finishes, open your Worker's URL (`https://comfy-gen.<your-subdomain>.workers.dev`)
 and log in with a Cloudflare API token; the page links to a pre-filled one.
+
+testrebzuzk
